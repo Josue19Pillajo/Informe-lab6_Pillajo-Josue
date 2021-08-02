@@ -103,10 +103,12 @@ Para 4700 ohm
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![Tabla](https://user-images.githubusercontent.com/84783236/127931774-1ba33660-fbaa-410d-b4f8-554426068b2e.png)
+
 
 3.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-
+Si cumple porque el teorema establece que la resistencia  que se esta determinando , dice que su potencia  va ser igual  o en este caso se va aproxiar a la resistencia  Thevenin en este caso  la resistencia de  1000 ohm   es el mas cercano  a la aproximación  de la resistencia de 1.2 Kohm  por lo que se concluye que si cumple este teorema.
 
 3.5 ¿Cuál fue la potencia máxima en RL?
 
@@ -114,7 +116,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 3.6  ¿Para qué valor de RL se obtiene la MTP?
 
-Para la resistencia de  1Kohm
+Para la resistencia de  1000 ohm
 
 # 4.  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
