@@ -79,8 +79,9 @@ Para 4700 ohm
 3.4 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
 # Calcúlos
+![image](https://user-images.githubusercontent.com/84783236/127889209-fd166e36-2b7b-47c1-a86a-d51c4a4edc8f.png)
 
-![1 1](https://user-images.githubusercontent.com/84783236/127885887-5f2f46b7-3a99-4c39-9070-01844d6fa741.png)
+! [1 1] (https://user-images.githubusercontent.com/84783236/127885887-5f2f46b7-3a99-4c39-9070-01844d6fa741.png)
 ![2 2](https://user-images.githubusercontent.com/84783236/127885917-a0bc2198-5e4c-4d82-9784-9e4a4894a57b.png)
 ![3 3](https://user-images.githubusercontent.com/84783236/127885947-cf45a941-bd44-4ee8-b545-994ae8f46183.png)
 ![4 4](https://user-images.githubusercontent.com/84783236/127886072-21deab41-eff0-4530-8465-8bb948ce7925.png)
