@@ -46,6 +46,7 @@ Para 680 ohm
 
 
 
+
 Para 820 ohm
 
 
