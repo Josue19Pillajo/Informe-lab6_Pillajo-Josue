@@ -1,3 +1,4 @@
+
 # Universidad de las Fuerzas Armadas ESPE
 
 Integrante: Josue Pillajo
@@ -105,6 +106,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![Tabla](https://user-images.githubusercontent.com/84783236/127931774-1ba33660-fbaa-410d-b4f8-554426068b2e.png)
 
+Nota:los datos  de la Potencia calculada experimental  se comprueba  en la tabla de porcentaje de error  para determinar su correspondiente  comparación
 
 3.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
@@ -120,7 +122,7 @@ Para la resistencia de  1000 ohm
 
 # 4.  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
+![tabla error](https://user-images.githubusercontent.com/84783236/127934106-d0fec537-ace8-4ab4-b147-374d6e898a1f.png)
 
 # 5. VIDEO
 
