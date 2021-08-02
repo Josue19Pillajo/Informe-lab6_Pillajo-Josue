@@ -79,19 +79,11 @@ Para 4700 ohm
 3.4 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
 # Calcúlos
-![image](https://user-images.githubusercontent.com/84783236/127889209-fd166e36-2b7b-47c1-a86a-d51c4a4edc8f.png)
 
-! [1 1] (https://user-images.githubusercontent.com/84783236/127885887-5f2f46b7-3a99-4c39-9070-01844d6fa741.png)
-![2 2](https://user-images.githubusercontent.com/84783236/127885917-a0bc2198-5e4c-4d82-9784-9e4a4894a57b.png)
-![3 3](https://user-images.githubusercontent.com/84783236/127885947-cf45a941-bd44-4ee8-b545-994ae8f46183.png)
-![4 4](https://user-images.githubusercontent.com/84783236/127886072-21deab41-eff0-4530-8465-8bb948ce7925.png)
-![5 5](https://user-images.githubusercontent.com/84783236/127886111-d5589b4f-18c6-4dda-8006-7b7ec13888ce.png)
-![6 6](https://user-images.githubusercontent.com/84783236/127886129-52f7db28-f637-4b74-9747-934727e5aa49.png)
-![7 7](https://user-images.githubusercontent.com/84783236/127886134-610738c8-7619-4bae-b5ab-7841ab92ce20.png)
-![8 8](https://user-images.githubusercontent.com/84783236/127886148-de0e3add-b219-43ce-8572-c9b5cbd45329.png)
-![9 9](https://user-images.githubusercontent.com/84783236/127886161-d336be05-d3bf-426b-a1ab-31b79d888cf2.png)
-![10 10](https://user-images.githubusercontent.com/84783236/127886181-f3d988a8-8e1a-4b9e-998d-2dd08d597344.png)
-![image](https://user-images.githubusercontent.com/84783236/127888937-d8249264-7d9c-4410-8f72-43bc429484f5.png)
+![1 1](https://user-images.githubusercontent.com/84783236/127889905-61882e42-84e8-4309-b498-bf58a27ced09.png)
+![2 2](https://user-images.githubusercontent.com/84783236/127889941-800002dd-5b5e-4a8b-a756-b75564fd58c1.png)
+![3 3](https://user-images.githubusercontent.com/84783236/127889973-8c04513d-1b42-4fd5-96a8-a97271b12a6a.png)
+
 
 ![470000000000](https://user-images.githubusercontent.com/84783236/127888972-8dd20cbb-a569-40bb-9d02-a8a4b54e0fca.png)
 
