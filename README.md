@@ -104,9 +104,37 @@ Para 4700 ohm
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
+3.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 
 
+3.5 ¿Cuál fue la potencia máxima en RL?
+
+46.51 mW
+
+3.6  ¿Para qué valor de RL se obtiene la MTP?
+
+Para la resistencia de  1Kohm
+
+# 4.  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
+# 5. VIDEO
+
+# 6. CONCLUSIONES
+
+El Teorema de  máxima transferencia de potencia  nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor y asi resolver mas facil un circuito.
+
+Se comprobó que los resultados obtenidos mediante el Teorema de máxima transferencia de potencia  son similares a los obtenidos en la simulación del circuito y su porcentaje de error es mínimo por lo tanto el circuito esta bien realizado tanto como en la simulacion como en los valores calculados.
+
+# 7. BIBLIOGRAFÍA
+
+https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
+
+https://steltda.files.wordpress.com/2014/03/fundamentos-de-circuitos-elc3a9ctricos-3edi-sadiku.pdf
+
+https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
 
 
