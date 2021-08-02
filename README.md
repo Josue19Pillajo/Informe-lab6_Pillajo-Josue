@@ -90,6 +90,7 @@ Para 4700 ohm
 ![8 8](https://user-images.githubusercontent.com/84783236/127886148-de0e3add-b219-43ce-8572-c9b5cbd45329.png)
 ![9 9](https://user-images.githubusercontent.com/84783236/127886161-d336be05-d3bf-426b-a1ab-31b79d888cf2.png)
 ![10 10](https://user-images.githubusercontent.com/84783236/127886181-f3d988a8-8e1a-4b9e-998d-2dd08d597344.png)
+![470000000000](https://user-images.githubusercontent.com/84783236/127888737-ac19e767-bda2-4c42-af9f-a0d5ea298e92.png)
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
