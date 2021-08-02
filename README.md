@@ -81,9 +81,22 @@ Para 4700 ohm
 # Calcúlos
 
 ![1 1](https://user-images.githubusercontent.com/84783236/127889905-61882e42-84e8-4309-b498-bf58a27ced09.png)
+
 ![2 2](https://user-images.githubusercontent.com/84783236/127889941-800002dd-5b5e-4a8b-a756-b75564fd58c1.png)
+
 ![3 3](https://user-images.githubusercontent.com/84783236/127889973-8c04513d-1b42-4fd5-96a8-a97271b12a6a.png)
 
+![4 4](https://user-images.githubusercontent.com/84783236/127890741-4109f88b-1f2e-4d04-abbd-d5b965f8ae94.png)
+
+![5 5](https://user-images.githubusercontent.com/84783236/127890764-0ae91973-8ff1-483a-8413-861cb4c206ef.png)
+
+![6 6](https://user-images.githubusercontent.com/84783236/127890781-c6c70345-1b64-4a2d-9129-af16431c7333.png)
+
+![7 7](https://user-images.githubusercontent.com/84783236/127890797-3aad9cde-40ab-4bfe-a36a-77410ca0f92e.png)
+
+![8 8](https://user-images.githubusercontent.com/84783236/127890820-7b4a510a-daab-4f23-8fb0-5db24d476f04.png)
+
+![9 9](https://user-images.githubusercontent.com/84783236/127890844-dc037503-ac7e-40bc-b3db-2d7f09464d58.png)
 
 ![470000000000](https://user-images.githubusercontent.com/84783236/127888972-8dd20cbb-a569-40bb-9d02-a8a4b54e0fca.png)
 
