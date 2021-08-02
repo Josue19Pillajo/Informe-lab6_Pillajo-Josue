@@ -44,29 +44,36 @@ Para 470 ohm
 
 Para 680 ohm
 
-
-
+![680](https://user-images.githubusercontent.com/84783236/127881060-afeb8685-1bce-4191-83a4-fd96e9c733d5.png)
 
 Para 820 ohm
 
+![820](https://user-images.githubusercontent.com/84783236/127881099-e62e0f30-2e91-4008-a7dd-de5d315b7d4a.png)
 
 Para 1000 ohm
 
+![1000](https://user-images.githubusercontent.com/84783236/127881129-5ff5bac5-c303-48c5-99ba-ba977114fc8b.png)
 
 Para 1500  ohms
 
+![1500](https://user-images.githubusercontent.com/84783236/127881160-fdf6ff79-651d-48e5-bb29-270b15f3983c.png)
 
 Para 1800 ohms
+
+![1800](https://user-images.githubusercontent.com/84783236/127881182-c843d7fc-3f58-41dc-b0ae-001f070c8d9e.png)
 
 
 Para 2200 ohms
 
+![2200](https://user-images.githubusercontent.com/84783236/127881193-d850d05b-a49b-4fa3-a20b-80d31f99d4c3.png)
 
 Para 3900 ohm
 
+![3900](https://user-images.githubusercontent.com/84783236/127881216-5bb5ffe8-a097-41ec-a8fd-4062b58ec6a2.png)
 
 Para 4700 ohm
 
+![4700](https://user-images.githubusercontent.com/84783236/127881234-52c01116-5b11-4ace-b4bb-e56227ab18cb.png)
 
 
 3.4 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
