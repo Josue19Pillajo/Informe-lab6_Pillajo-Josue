@@ -127,6 +127,8 @@ Para la resistencia de  1000 ohm
 
 # 5. VIDEO
 
+https://www.youtube.com/watch?v=R2bTDcAwiIc
+
 # 6. CONCLUSIONES
 
 El Teorema de  máxima transferencia de potencia  nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor y asi resolver mas facil un circuito.
