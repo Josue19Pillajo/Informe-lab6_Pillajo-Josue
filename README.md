@@ -21,6 +21,7 @@ Comprobar los resultados obtenidos teóricamente, asi mismo como los obtenidos e
 
 # 2.  MARCO TEÓRICO
 
+![cuadro (2)](https://user-images.githubusercontent.com/84783236/127940726-2ea5aee2-a289-40e8-bb24-9fd5ddeba377.png)
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
